@@ -1,0 +1,22 @@
+{
+  "name": "micro-blog",
+  "version": "1.0.0",
+  "description": "Pequeno Blog feito com Nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fsrocha-dev/micro-blog.git"
+  },
+  "keywords": [
+    "NodeJs"
+  ],
+  "author": "Frank Rocha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fsrocha-dev/micro-blog/issues"
+  },
+  "homepage": "https://github.com/fsrocha-dev/micro-blog#readme"
+}
